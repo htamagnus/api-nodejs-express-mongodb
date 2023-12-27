@@ -1,24 +1,24 @@
 import express from "express";
+import connectToDatabase from "./config/dbConnect.js";
+import routes from "./routes/index.js";
 
-const app = express();
+const connection = await connectToDatabase();
 
-const books = [
-  {
-    id: 1,
-    title: "Harry Potter and the Philosopher's Stone",
-  },
-  {
-    id: 2,
-    title: "Harry Potter and the Chamber of Secrets",
-  },
-];
-
-app.get("/", (req, res) => {
-  res.status(200).send("Hello World");
+connection.on("error", (error) => {
+  console.error("Connection error", error);
 });
 
-app.get("/books", (req, res) => {
-  res.status(200).json(books);
+connection.once("open", () => {
+  console.log("Connection to the database successful");
+});
+
+const app = express();
+routes(app);
+
+app.delete("/books/:id", (req, res) => {
+  const index = findBook(req.params.id);
+  books.splice(index, 1);
+  res.status(200).send("Book removed successfully");
 });
 
 export default app;
