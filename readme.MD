@@ -47,6 +47,7 @@ app.post('/api/usuarios', (req, res) => {
   res.send('Novo usuário criado');
 });
 ~~~
+---
 
 ## 4. Testando Requisições com Postman 🧪
 A ferramenta Postman foi introduzida para testar e validar as requisições feitas à API. É possível verificar as diferentes partes de uma requisição HTTP, entender o funcionamento e garantir a correta implementação dos endpoints.
