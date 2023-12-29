@@ -51,18 +51,22 @@ app.post('/api/usuarios', (req, res) => {
 
 ## 4. Testando Requisições com Postman 🧪
 A ferramenta Postman foi introduzida para testar e validar as requisições feitas à API. É possível verificar as diferentes partes de uma requisição HTTP, entender o funcionamento e garantir a correta implementação dos endpoints.
+
 ---
 
 ## 5. Manipulação de Dados em uma API 🔄:
 Foi explorada a integração de bancos de dados com a API, abordando o armazenamento de dados recebidos e processados pela aplicação. A persistência de informações é fundamental para o funcionamento de qualquer sistema.
+
 ---
 
 ## 6. Bancos de Dados: SQL vs NoSQL 🗃️:
 As principais diferenças entre bancos de dados SQL e NoSQL foram discutidas, proporcionando uma compreensão mais ampla sobre os casos de uso ideais para cada tipo de banco de dados.
+
 ---
 
 ## 7. Modelo e Esquema no Desenvolvimento de API 📚:
 Os conceitos de modelo e esquema foram apresentados, destacando o papel fundamental de cada um na construção de uma API. Modelos são representações dos dados, enquanto esquemas definem a estrutura e as restrições dos dados.
+
 ---
 
 ## 8. Relacionamento de Dados no MongoDB 🔄:
@@ -85,5 +89,6 @@ const postagemSchema = new Schema({
   comentarios: [comentarioSchema],
 });
 ~~~
+
 ---
 Estes são os principais aprendizados obtidos durante o desenvolvimento deste projeto com Express.js. Cada tópico contribui para uma compreensão mais sólida do desenvolvimento de aplicações web e APIs utilizando o Express como framework principal.
