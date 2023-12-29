@@ -37,6 +37,7 @@ app.get('/api/usuarios', (req, res) => {
   res.send('Lista de usuários');
 });
 ~~~
+---
 
 ## 3. CRUD com Express e HTTP Methods 📝
 - a implementação de um CRUD (Create, Read, Update, Delete) foi abordada utilizando os métodos HTTP GET, POST, PUT e DELETE do Express. Cada método foi associado a uma função específica para manipular as requisições.
