@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento com Express.js 🚀
+# Projeto em NodeJS com Express.js 🚀
 
 O projeto abordou diversos tópicos essenciais para o desenvolvimento de uma aplicação web com o framework Express.js. Abaixo estão os principais aprendizados:
 
