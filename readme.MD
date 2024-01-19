@@ -14,6 +14,7 @@ O projeto abordou diversos tópicos essenciais para o desenvolvimento de uma apl
 
 ---
 
+
 ## 1. Introdução ao Desenvolvimento com Express 🛠️:
 
 O projeto começou com uma introdução ao Express.js, um framework para Node.js amplamente utilizado para desenvolver aplicações web e APIs. A configuração básica do Express, a criação de um servidor HTTP e a gestão de requisições e respostas foram os primeiros passos.
