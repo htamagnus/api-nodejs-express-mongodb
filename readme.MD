@@ -1,5 +1,5 @@
 [nodejs_BADGE]: https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge
-[express_BADGE]: https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge
+[express_BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
 [mongodb_BADGE]: https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge
 
 <h1 align="center" style="font-weight: bold;">Projeto em NodeJS com Express.js 🚀 </h1>
