@@ -1,5 +1,13 @@
 <h1 align="center" style="font-weight: bold;">Projeto em NodeJS com Express.js 🚀 </h1>
 
+<div align="center">
+  
+https://img.shields.io/badge/mysql-3178C6?logo=mysql&logoColor=white&style=for-the-badge
+https://img.shields.io/badge/mysql-3178C6?logo=mysql&logoColor=white&style=for-the-badge
+![typescript][typescript_BAGDE]
+![mysql][mysql_BADGE]
+
+</div>
 
 O projeto abordou diversos tópicos essenciais para o desenvolvimento de uma aplicação web com o framework Express.js. Abaixo estão os principais aprendizados:
 
