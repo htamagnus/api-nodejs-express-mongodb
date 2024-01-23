@@ -1,11 +1,9 @@
+
 <h1 align="center" style="font-weight: bold;">Projeto em NodeJS com Express.js 🚀 </h1>
 
 <div align="center">
   
-https://img.shields.io/badge/mysql-3178C6?logo=mysql&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/mysql-3178C6?logo=mysql&logoColor=white&style=for-the-badge
-![typescript][typescript_BAGDE]
-![mysql][mysql_BADGE]
+![nodejs][https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge]
 
 </div>
 
