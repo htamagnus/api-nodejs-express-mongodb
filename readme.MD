@@ -1,4 +1,5 @@
-# Projeto em NodeJS com Express.js 🚀
+<h1 align="center" style="font-weight: bold;">Projeto em NodeJS com Express.js 🚀 </h1>
+
 
 O projeto abordou diversos tópicos essenciais para o desenvolvimento de uma aplicação web com o framework Express.js. Abaixo estão os principais aprendizados:
 
