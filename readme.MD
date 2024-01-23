@@ -1,9 +1,10 @@
+[nodejs_BADGE]: https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge
 
 <h1 align="center" style="font-weight: bold;">Projeto em NodeJS com Express.js 🚀 </h1>
 
 <div align="center">
   
-![nodejs][https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge]
+![nodejs][nodejs_BADGE]
 
 </div>
 
